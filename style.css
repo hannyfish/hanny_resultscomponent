@@ -32,6 +32,9 @@ main {
   align-items: center;
 }
 
+.wrapper {max-width: 400px;
+ margin: 0 auto;}
+
 .results-bg {
   width: 100%;
   background: var(--white);
@@ -229,6 +232,9 @@ main {
     margin: 0 auto;
   }
 
+  .wrapper {min-width: 900px;
+ margin: 0 auto;}
+  
   .results-bg {
     max-width: 100%;
     background: var(--white);
