@@ -23,6 +23,7 @@ body {
   min-height: 100vh;
   display: grid;
   place-content: center;
+  max-width: 400px;
 }
 
 .results-bg {
@@ -211,6 +212,7 @@ body {
   min-height: 100vh;
   display: grid;
   place-content: center;
+    min-width: 900px;
 }
   
 .results-bg {
