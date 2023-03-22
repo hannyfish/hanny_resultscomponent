@@ -53,6 +53,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 I had a very interesting time figuring out how to use :before relative to the code class itself, and how to make things align in line with the brief/style guide. Since it's my second time working with HSL as a colour definition, I also learned how to balance the knowledge I already have of hex, var and rgba and consolidating that into using hsl.
 
+I also learned the best way to structure code for @media and mobile vs desktop view in terms of accessibility. I had a difficult time making it respond to mobile view - unsure as to why, unless it's just because my mobile phone is particularly large, but it works perfectly fine on CodePen and not so much on GitHub.
+
 A bit of CSS I was happy with - I originally wrote them all out separately with a lot of different settings, but eventually consolidated them into something more concise.
 
 ```css
