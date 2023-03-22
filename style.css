@@ -32,8 +32,10 @@ main {
   align-items: center;
 }
 
-.wrapper {max-width: 400px;
- margin: 0 auto;}
+.wrapper {
+  max-width: 400px;
+  margin: 0 auto;
+}
 
 .results-bg {
   width: 100%;
@@ -225,16 +227,18 @@ main {
   main {
     width: 700px;
     min-height: 50vh;
+    margin: 0 auto;
+  }
+
+  .wrapper {
+    min-width: 900px;
+    margin: 0 auto;
     display: flex;
     flex-direction: row;
     align-items: center;
     justify-content: center;
-    margin: 0 auto;
   }
 
-  .wrapper {min-width: 900px;
- margin: 0 auto;}
-  
   .results-bg {
     max-width: 100%;
     background: var(--white);
