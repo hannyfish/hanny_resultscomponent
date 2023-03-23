@@ -26,20 +26,14 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
-
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
-
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it. 
-
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
-
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
+![Desktop1](https://img.nickpic.host/QRvoFQ.png)
+![Desktop2](https://img.nickpic.host/QRvIL2.png)
+![Mobile](https://img.nickpic.host/QRvG4s.jpg)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://codepen.io/hanny/pen/vYzVjdx)
+- Live Site URL: (https://hannyfish.github.io/hanny_resultscomponent/)
 
 ## My process
 
@@ -53,7 +47,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 I had a very interesting time figuring out how to use :before relative to the code class itself, and how to make things align in line with the brief/style guide. Since it's my second time working with HSL as a colour definition, I also learned how to balance the knowledge I already have of hex, var and rgba and consolidating that into using hsl.
 
-I also learned the best way to structure code for @media and mobile vs desktop view in terms of accessibility. I had a difficult time making it respond to mobile view - unsure as to why, unless it's just because my mobile phone is particularly large, but it works perfectly fine on CodePen and not so much on GitHub.
+I also learned the best way to structure code for @media and mobile vs desktop view in terms of accessibility. I had a difficult time making it respond to mobile view - unsure as to why, unless it's just because my mobile phone is particularly large, but it works perfectly fine on CodePen and not so much on GitHub. It turned out that it was a viewport issue as well as a browser issue relating to a fairly older phone, so thankfully it didn't seem to be a huge issue with the code.
 
 A bit of CSS I was happy with - I originally wrote them all out separately with a lot of different settings, but eventually consolidated them into something more concise.
 
